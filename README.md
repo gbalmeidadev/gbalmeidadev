@@ -6,4 +6,4 @@
 
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,java,postgres,mongodb,spring,docker,powerbi,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,java,spring,cs,postgres,mysql,mongodb,docker)](https://skillicons.dev)
